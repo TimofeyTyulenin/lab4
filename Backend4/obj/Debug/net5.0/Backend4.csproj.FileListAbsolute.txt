@@ -1,0 +1,111 @@
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.exe
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.deps.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.AssemblyReference.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\refint\Backend4.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.pdb
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+C:\Users\zadir\OneDrive\Рабочий стол\РАБОЧИЙ СТОЛ WINDOWS 10\Учеба\3 курс 2 семестр\Вебы 2\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.exe
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.deps.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.runtimeconfig.dev.json
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\ref\Backend4.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.Views.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\bin\Debug\net5.0\Backend4.Views.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.AssemblyReference.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfoInputs.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.AssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorAssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.Manifest.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\staticwebassets\Backend4.StaticWebAssets.xml
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\scopedcss\bundle\Backend4.styles.css
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.input.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.TagHelpers.output.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorCoreGenerate.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.RazorTargetAssemblyInfo.cs
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.Views.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\ref\Backend4.dll
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.pdb
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.genruntimeconfig.cache
+C:\Users\Tima\Desktop\ТГУ 2021-2022\ВЕБ\лаба 4\Backend4\obj\Debug\net5.0\Backend4.csproj.CopyComplete
